@@ -9,7 +9,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Jack's Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  Some Site Description Here!
+  Jack Rabe's Personal Blog
 
 
 ## => Language and Timezone
@@ -26,7 +26,7 @@ author:
   url       :
   avatar    : https://avatars.githubusercontent.com/u/76982748?v=4
   bio       : I am a computer science student at UW - Madison
-  email     : jack.h.rabe@gmail.com
+  email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -168,21 +168,14 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README-*.md
-  - README.md
   - gulpfile.js
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
   - /node_modules
-  - /screenshots
-  - /test
   - /vendor
 
 defaults:

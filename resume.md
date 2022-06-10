@@ -63,7 +63,7 @@ Learned fundamentals of electric planning, GIS mapping, and preventative mainten
 
 ---
 
-Languages:	Java, Ruby, Python, C,  JavaScript, HTML, CSS
+- Languages:	Java, Ruby, Python, C,  JavaScript, HTML, CSS
 Other: 		Bash, Docker, Git, Ruby on Rails, Express
 
 ## PROJECTS
